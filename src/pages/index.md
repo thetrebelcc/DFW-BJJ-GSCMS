@@ -3,7 +3,7 @@ templateKey: index-page
 title: DFW bjj
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: THE central hub for BJJ-DFW
 mainpitch:
   title: Why Kaldi
   description: >
